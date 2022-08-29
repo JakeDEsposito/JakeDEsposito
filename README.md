@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JakeDEsposito
 - 👀 I’m interested in Computers, Games, and Artificial Intelligence.
 - 🌱 I’m currently studying Computer Science at Clarkson University.
-- 💞️ I’m looking to collaborate on Unreal Engine 4 projects and front end projects.
+- 💞️ I’m looking to collaborate on Godot projects and front end projects.
 <!---
 - 📫 How to reach me ...
 --->
